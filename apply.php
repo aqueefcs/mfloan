@@ -131,8 +131,8 @@
 
 						    
 						    <select class="browser-default custom-select form-control mb-4" name="loan">
-						        <option value="" disabled>Choose option</option>
-						        <option value="1" selected>Home Loan</option>
+						        <option value="" disabled selected>Choose option</option>
+						        <option value="1">Home Loan</option>
 						        <option value="2">Personal Loan</option>
 						        <option value="3">Two-vehicle Loan</option>
 						        <option value="4">Three Vehicle Loan</option>
