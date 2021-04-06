@@ -649,7 +649,7 @@
             <a href="#loan">Loans</a>
           </li>
           <li>
-            <a href="https://www.freeprivacypolicy.com/live/dec26036-2a0b-4e92-8402-808e250b1798" target="_blank">Privacy Policy</a>
+            <a href="https://www.freeprivacypolicy.com/live/c9468ad6-0355-4a9e-b705-fbb3e7c7dccb" target="_blank">Privacy Policy</a>
           </li>
           <li>
             <a href="#!">Terms of Use</a>
