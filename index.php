@@ -490,7 +490,7 @@
       <img class=" card-img-100 rounded-circle z-depth-1-half d-flex mr-3" src="images/woman.png" alt="Generic placeholder image">
       <div class="media-body">
         <a>
-          <h5 class="user-name font-weight-bold">Rumana Begum</h5>
+          <h5 class="user-name font-weight-bold">Sweta</h5>
         </a>
         <div class="card-data">
           <ul class="list-unstyled mb-1">
@@ -535,7 +535,7 @@
 
           <p class="font-weight-bold my-3">Address</p>
 
-          <p class="text-muted">KOlkata, 94126, West Bengal</p>
+          <p class="text-muted">West Bengal</p>
 
         </div>
         <!--Grid column-->
@@ -547,7 +547,7 @@
 
             <p class="font-weight-bold my-3">Phone number</p>
   
-            <p class="text-muted">+ 01 234 567 89</p>
+            <p class="text-muted">+91 9433930899</p>
 
         </div>
         <!--Grid column-->
@@ -559,7 +559,7 @@
 
             <p class="font-weight-bold my-3">E-mail</p>
   
-            <p class="text-muted">info@gmail.com</p>
+            <p class="text-muted">infomahindraloan@gmail.com</p>
 
         </div>
         <!--Grid column-->
