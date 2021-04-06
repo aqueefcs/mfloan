@@ -109,7 +109,7 @@
 		      </div>
 		      <div class="carousel-caption">
 		        <h3 class="h3-responsive">Simple and convinient loans for every big and small dreams.</h3>
-		        <a class="nav-link btn btn-danger btn-rounded btn-sm" href="#">Apply Now</a>
+		        <a class="nav-link btn btn-danger btn-rounded btn-sm" href="apply.php">Apply Now</a>
 		      </div>
 		    </div>
 		    <div class="carousel-item">
@@ -121,7 +121,7 @@
 		      </div>
 		      <div class="carousel-caption">
 		        <h3 class="h3-responsive">Smart Way to manage your money.</h3>
-		        <a class="nav-link btn btn-danger btn-rounded btn-sm" href="#">Apply Now</a>
+		        <a class="nav-link btn btn-danger btn-rounded btn-sm" href="apply.php">Apply Now</a>
 		      </div>
 		    </div>
 		    <div class="carousel-item">
@@ -133,7 +133,7 @@
 		      </div>
 		      <div class="carousel-caption">
 		        <h3 class="h3-responsive">Affordable home Loan</h3>
-		        <a class="nav-link btn btn-danger btn-rounded btn-sm" href="#">Apply Now</a>
+		        <a class="nav-link btn btn-danger btn-rounded btn-sm" href="apply.php">Apply Now</a>
 		      </div>
 		    </div>
 		  </div>
