@@ -1,0 +1,13 @@
+.top{
+	background-color: #FFFFFF;
+	height: 30px;
+}
+
+@media (max-width: 400px){
+	.loan-text{
+		font-size: 20px;
+	}
+	.h3-responsive{
+		display: none;
+	}
+}
